@@ -6,9 +6,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to d2l page](https://d2l.ai/index.html).
 
-Check out the new page [Test](/test/)
+Check out the new page [Test]({{ site.baseurl }}/test/)
 
-Check out jupyter test page [JupyterTest](/jupyter_test/)
+Check out jupyter test page [JupyterTest]({{ site.baseurl }}/jupyter_test/)
 
 There should be whitespace between paragraphs.
 
