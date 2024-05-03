@@ -8,6 +8,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Check out the new page [Test](/test/)
 
+Check out jupyter test page [JupyterTest](/jupyter_test/)
+
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
