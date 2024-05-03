@@ -8,3 +8,4 @@ description: A toolbox for academia and non-academia people to get in touch with
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
+markdown: kramdown
