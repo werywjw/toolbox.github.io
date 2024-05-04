@@ -2,21 +2,51 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# **Toolbox: Uncertainty Quantification**
+
+- _Paper:_ [Aleatoric and epistemic uncertainty in machine learning: An introduction to concepts and methods](https://link.springer.com/article/10.1007/s10994-021-05946-3)
+
+<!-- TODO: add images -->
+
+## Examples
 
 [Link to d2l page](https://d2l.ai/index.html).
+
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Check out the new page [Test]({{ site.baseurl }}/test)
 
 Check out jupyter test page [JupyterTest]({{ site.baseurl }}/jupyter_test)
 
-There should be whitespace between paragraphs.
+## Prelude
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 1. Introduction
 
-# Header 1
+## 2. Sources of uncertainty
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 3. Auxiliary sites on information-theory, probability theory and other mathematical concepts
+
+## 4. Modeling approximation uncertainty
+
+## 5. Probability estimation via scoring, calibration, and ensembles
+
+## 6. Maximum likelihood estimation and Fisher information
+
+## 7. Generative models
+
+## 8. Gaussian processes
+
+## 9. Deep neural network ensembles
+
+## 10. Bayesian neural networks
+
+## 11. Credal sets and classifiers
+
+## 12. Reliable classification
+
+## 13. Conformal prediction for classification and regression
+
+## 14. Set-valued prediction based on utility maximization
 
 ## Header 2
 

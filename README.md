@@ -1,4 +1,6 @@
 ### How to test the page locally?
 
 Run the following command:
-```bundle exec jekyll serve```
+```
+bundle exec jekyll serve
+```
