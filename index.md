@@ -46,7 +46,7 @@ Check out jupyter test page [JupyterTest]({{ site.baseurl }}/jupyter_test)
 
 ## 14. Set-valued prediction based on utility maximization
 
-## Header 2
+<!-- ## Header 2
 
 > This is a blockquote following a header.
 >
@@ -144,4 +144,4 @@ end
 <dd>Japan</dd>
 <dt>Color</dt>
 <dd>Green</dd>
-</dl>
+</dl> -->
