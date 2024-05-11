@@ -6,8 +6,6 @@ layout: default
 
 - _Paper:_ [Aleatoric and epistemic uncertainty in machine learning: An introduction to concepts and methods](https://link.springer.com/article/10.1007/s10994-021-05946-3)
 
-<!-- TODO: add images -->
-
 ## Examples
 
 [Link to d2l page](https://d2l.ai/index.html).
@@ -147,11 +145,3 @@ end
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

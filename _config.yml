@@ -9,9 +9,5 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-dinky
 markdown: kramdown
-
----
 layout: default
 comments: true
-# other options
----
