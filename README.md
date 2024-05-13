@@ -6,19 +6,20 @@ bundle exec jekyll serve
 ```
 
 
-### How to convert jupyter to mardown and have a separate page?
+### How to convert jupyter to markdown and have a separate page?
 
 1.  Create a folder **folderName**, which then will be the sub-domain the page will be on.
+    For example: We want a page for _regression_ then the url will be: _maindomain/regression_
 2.  Move the written jupyterfile **jupyterFile** into the folder **folderName**.
 3.  run the following command in the root folder: 
 ```bash
 bash jupyterToMarkdown.sh <jupyterFile> <folderName>
 ```
-4.  add the new markdown file as a link onto the corresponding page( example: index.md) with the following line: 
+4.  Add the new markdown file as a link onto the corresponding page with the following line: 
 ```
 This is my cool new page [<jupyterFile>](<url>/<jupyterFile>)
 ```
-The most important use case is redirecting from the main page to the new page, which then boils down to the following command:
+The most important use case is redirecting from the main page (index.md) to the new page, which then boils down to the following command:
 ```
 This is my cool new page [<jupyterFile>]({{ site.baseurl }}/<jupyterFile>)
 ```
