@@ -16,6 +16,7 @@ Check out the new page [Test]({{ site.baseurl }}/test)
 
 Check out jupyter test page [JupyterTest]({{ site.baseurl }}/jupyter_test)
 
+Check out jupyter test page2 [regression]({{ site.baseurl }}/regression)
 ## Prelude
 
 ## 1. Introduction
