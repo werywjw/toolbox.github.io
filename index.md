@@ -17,7 +17,8 @@ Check out the new page [Test]({{ site.baseurl }}/test)
 Check out jupyter test page [JupyterTest]({{ site.baseurl }}/jupyter_test)
 
 Check out jupyter test page2 [regression]({{ site.baseurl }}/regression)
-## Prelude
+
+## [Prelude](https://werywjw.github.io/toolbox.github.io/prelude/prelude.html)
 
 ## 1. Introduction
 
