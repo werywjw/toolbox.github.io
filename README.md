@@ -5,6 +5,11 @@ Run the following command:
 bundle exec jekyll serve
 ```
 
+### How to convert Jupyter Notebook to HTML?
+
+```
+jupyter nbconvert --to html <prelude>.ipynb
+```
 
 ### How to convert jupyter to markdown and have a separate page?
 
